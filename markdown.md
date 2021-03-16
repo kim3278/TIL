@@ -57,7 +57,6 @@ double dj = 10.0;
 
 ## 이미지
 
-![33](C:\Users\user\Desktop\33.jpg)
 
 이미지 끌어다 놓으면 됨
 
